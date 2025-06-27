@@ -1,16 +1,13 @@
 # Node modules
 **/node_modules/
 
-# Environment variables
+# Environment
 **/.env
 
-# Logs
-**/logs
-*.log
+# Build output
+**/build
+**/dist
 
-# OS-specific
+# System
 .DS_Store
 Thumbs.db
-
-# Build files
-**/build
