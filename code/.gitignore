@@ -1,13 +1,5 @@
-# Node modules
-**/node_modules/
-
-# Environment
-**/.env
-
-# Build output
-**/build
-**/dist
-
-# System
+node_modules/
+.env
 .DS_Store
-Thumbs.db
+.vscode/
+.idea/
