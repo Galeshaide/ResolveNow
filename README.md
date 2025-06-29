@@ -1,0 +1,1 @@
+ResolveNow is a full-stack web application designed to streamline the process of registering and managing complaints online. It enables users to file complaints, track their status, and allows administrators and agents to manage and resolve issues efficiently.
